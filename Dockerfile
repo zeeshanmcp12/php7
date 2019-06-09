@@ -113,7 +113,6 @@ RUN set -eux; \
 		libssl-dev \
 		libxml2-dev \
 		zlib1g-dev \
-		memcached \
 		php7.3-memcached \
 		${PHP_EXTRA_BUILD_DEPS:-} \
 	; \
